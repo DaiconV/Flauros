@@ -10,6 +10,6 @@ namespace Flauros {
 	}
 
 	void Application::run() {
-		while (1) {}
+		//while (1) {}
 	}
 }

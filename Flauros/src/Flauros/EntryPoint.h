@@ -11,7 +11,6 @@ int main(int argc, char** argv)
 {
 	std::unique_ptr<Flauros::Application> app(Flauros::createApplication());
 	app->run();
-
 	return 0;
 }
 
