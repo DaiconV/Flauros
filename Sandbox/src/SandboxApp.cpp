@@ -4,9 +4,7 @@
 
 class Sandbox : public Flauros::Application {
 public:
-	Sandbox() {
-		std::cout << "Welcome to Flauros Engine!" << std::endl;
-	}
+	Sandbox() {}
 	~Sandbox() {}
 };
 

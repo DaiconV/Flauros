@@ -1,0 +1,3 @@
+[submodule "Flauros/vendor/spdlog"]
+	path = Flauros/vendor/spdlog
+	url = https://github.com/gabime/spdlog
